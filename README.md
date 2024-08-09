@@ -12,4 +12,7 @@ class Skills extends Desenvolvedor {
   linguagens = ["java,javascript,typescript,c#,python"];
   frameworks = ["react,angular"];
 }
+class PORTIFOLIO extends Desenvolvedor {
+  https://portifolio-psi-virid.vercel.app/
+}
 ```
