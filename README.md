@@ -4,15 +4,24 @@ import Desenvolvedor from "SarahEvelyn2005";
 class SobreMim extends Desenvolvedor {
   nome = "Sarah Evelyn";
   area = "full stack";
-  trabalho = "level 33";
-  local = "Brasilia";
+  trabalho = "Level 33";
+  local = "Brasília";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["java,javascript,typescript,c#,python"];
-  frameworks = ["react,angular"];
+  linguagens = ["Java", "JavaScript", "TypeScript", "C#", "Python"];
+  frameworks = ["React", "Angular"];
 }
-class PORTIFOLIO extends Desenvolvedor {
-  <a https://portifolio-psi-virid.vercel.app/ > </a> 
+
+class Portfolio extends Desenvolvedor {
+  constructor() {
+    super();
+    this.portfolioLink = "https://portifolio-psi-virid.vercel.app/";
+  }
+
+  render() {
+    return `<a href="${this.portfolioLink}">Meu Portfólio</a>`;
+  }
 }
+
 ```
