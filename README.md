@@ -1,6 +1,4 @@
 ## Sarah Evelyn Pinheiro de Almeida
-
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SarahEvelyn2005)](https://github.com/SarahEvelyn2005)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-evelyn/)](https://www.linkedin.com/in/sarah-evelyn/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square)](https://portifolio-psi-virid.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evelynpinheiro2005@gmail.com)](mailto:evelynpinheiro2005@gmail.com)
