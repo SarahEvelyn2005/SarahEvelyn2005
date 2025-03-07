@@ -67,14 +67,4 @@ Se você deseja trocar ideias sobre tecnologia ou está em busca de um profissio
 
 ---
 
-### 📞 Contato
-
-📩 **E-mail:** [evelynpinheiro2005@gmail.com](mailto:evelynpinheiro2005@gmail.com)  
-📱 **WhatsApp:** [+55 61 99236-6556](https://api.whatsapp.com/send?phone=5561992366556)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/sarah-evelyn/](https://www.linkedin.com/in/sarah-evelyn/)  
-🌐 **Portfólio:** [https://portifolio-psi-virid.vercel.app/](https://portifolio-psi-virid.vercel.app/)  
-🚀 **GitHub:** [https://github.com/SarahEvelyn2005](https://github.com/SarahEvelyn2005)  
-
----
-
 
