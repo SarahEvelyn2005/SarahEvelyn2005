@@ -87,9 +87,7 @@ Se você deseja trocar ideias sobre tecnologia ou está em busca de um profissio
 #### 🏥 **Sistema de Gestão de Saúde**
 - Plataforma web construída com **Node.js e React**, permitindo **registro de pacientes, agendamento de consultas e gestão de prontuários**.
 - Facilitou o gerenciamento de dados de saúde, garantindo acesso seguro e rápido às informações médicas.
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SarahEvelyn2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
+
 ---
 
 
