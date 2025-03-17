@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=console.log("Olá,+sou+a+Sarah+Evelyn!"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=console.log("Olá,+sou+a+Sarah+Evelyn+!"))](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-evelyn/)](https://www.linkedin.com/in/sarah-evelyn/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square)](https://portifolio-psi-virid.vercel.app/)
