@@ -65,6 +65,14 @@ Se você deseja trocar ideias sobre tecnologia ou está em busca de um profissio
 
 ---
 
+## 🌱 O que estou estudando no momento?  
+🔹 **APIs,C#,Python e ReactNative**  
+🔹 **Melhores práticas de arquitetura back-end**  
+🔹 **Otimização de performance e escalabilidade**  
+
+---
+
+
 ### 🚀 Projetos Destacados
 
 #### 🎮 **Jogo do Número**
