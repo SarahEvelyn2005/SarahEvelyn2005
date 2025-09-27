@@ -25,7 +25,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-Sou **Sarah Evelyn Pinheiro de Almeida**, Desenvolvedora Full Stack com 1 ano de experiência em desenvolvimento web. Apaixonada por tecnologia, sou especialista em **React, React Native, TypeScript, Node.js, Next.js e Nest.js**. Tenho experiência no desenvolvimento de soluções inovadoras, sempre buscando aprendizado contínuo para aprimorar minhas habilidades e impactar positivamente os projetos que faço parte.
+Sou **Sarah Evelyn Pinheiro de Almeida**, Desenvolvedora Full Stack com 3 ano de experiência em desenvolvimento web. Apaixonada por tecnologia, sou especialista em **React, React Native, TypeScript, Node.js, Next.js e Nest.js**. Tenho experiência no desenvolvimento de soluções inovadoras, sempre buscando aprendizado contínuo para aprimorar minhas habilidades e impactar positivamente os projetos que faço parte.
 
 Atualmente, trabalho como **Desenvolvedora Full Stack na Level 33**, contribuindo para projetos governamentais e sistemas complexos.
 
