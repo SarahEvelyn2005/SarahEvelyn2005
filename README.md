@@ -1,94 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=console.log("Olá,+sou+a+Sarah+Evelyn+!"))](https://git.io/typing-svg)
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-evelyn/)](https://www.linkedin.com/in/sarah-evelyn/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square)](https://portifolio-psi-virid.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evelynpinheiro2005@gmail.com)](mailto:evelynpinheiro2005@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/rc0nk5)
----
-<h3>Linguagens, bibliotecas e frameworks que utilizo no dia a dia: </h3>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,mysql,dotnet,react,nodejs"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=System.init(Sarah_Evelyn);Initializing+Full+Stack+Protocol...;Loading+Innovation...;Dev+Level+33+Online.&font=Fira+Code&center=true&width=500&height=50&color=00f2ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarahEvelyn2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Sarah%20Evelyn&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Architecting%20the%20Future&descAlignY=55&descAlign=50" />
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sarah-evelyn/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portifolio-psi-virid.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
+  </a>
+  <a href="mailto:evelynpinheiro2005@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.link/rc0nk5">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SarahEvelyn2005&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="SarahEvelyn2005" /></p>
-  <div align="center">
-  </div><br>
 
----
+## ⚡ System Status: Online
 
-### 👩‍💻 Sobre Mim
-
-Sou **Sarah Evelyn Pinheiro de Almeida**, Desenvolvedora Full Stack com 3 ano de experiência em desenvolvimento web. Apaixonada por tecnologia, sou especialista em **React, React Native, TypeScript, Node.js, Next.js e Nest.js**. Tenho experiência no desenvolvimento de soluções inovadoras, sempre buscando aprendizado contínuo para aprimorar minhas habilidades e impactar positivamente os projetos que faço parte.
-
-Atualmente, trabalho como **Desenvolvedora Full Stack na Level 33**, contribuindo para projetos governamentais e sistemas complexos.
-
-Se você deseja trocar ideias sobre tecnologia ou está em busca de um profissional para sua equipe, entre em contato! 🚀
-
----
-
-### 🛠️ Minhas Habilidades
-
-#### Linguagens e Tecnologias
-
-- 💻 **Front-end:** HTML, CSS, JavaScript, React, React Native, TypeScript
-- ⚙️ **Back-end:** Node.js, Next.js, Nest.js, PHP, Java, SQL,C#
-- 🛠️ **Ferramentas e Frameworks:** Git, Docker, Webpack, Visual Studio Code, Postman
-
-#### Soft Skills
-
-- 🏆 Trabalho em equipe e colaboração
-- 📈 Pensamento analítico e resolução de problemas
-- 🔍 Aprendizado contínuo e adaptação a novas tecnologias
-
----
-
-### 💼 Experiência Profissional
-
-**Dev Full Stack**  
-🏢 **Level 33** | 📅 **Abril/2024 - Presente**
-
-- Desenvolvimento de diversos projetos web para o governo utilizando **JavaScript, Node.js, React, Nest.js, Next.js, Angular, SQL**;
-- Colaboração na criação do **Essus** e no sistema de **vigilância sanitária**.
-
----
-
-### 🎓 Formação Acadêmica
-
-🎓 **Análise e Desenvolvimento de Sistemas**  
-🏛️ **IESB** | 📅 **Previsão de Conclusão: 2026**
-
----
-
-## 🌱 O que estou estudando no momento?  
-🔹 **APIs,C#,Python e ReactNative**  
-🔹 **Melhores práticas de arquitetura back-end**  
-🔹 **Otimização de performance e escalabilidade**  
-
----
-
-
-### 🚀 Projetos Destacados
-
-#### 🎮 **Jogo do Número**
-- Jogo interativo em **JavaScript, HTML e CSS**, onde o jogador tenta adivinhar um número secreto.
-- Aplicação responsiva e dinâmica, aprimorando habilidades de lógica de programação e UX/UI.
-
-#### 🚗 **Sistema de Gestão de Pátios**
-- Desenvolvido em **Node.js (back-end)** e **React (front-end)**.
-- Sistema para gerenciamento de veículos em pátios, incluindo **cadastro, acompanhamento e relatórios**.
-- Melhorou a eficiência da gestão de pátios, reduzindo o tempo de processamento de dados em **30%**.
-
-#### 🏥 **Sistema de Gestão de Saúde**
-- Plataforma web construída com **Node.js e React**, permitindo **registro de pacientes, agendamento de consultas e gestão de prontuários**.
-- Facilitou o gerenciamento de dados de saúde, garantindo acesso seguro e rápido às informações médicas.
-
----
-
-
+```javascript
+const developer = {
+    name: "Sarah Evelyn Pinheiro de Almeida",
+    role: "Full Stack Developer",
+    company: "Level 33",
+    location: "Brasília, Brazil",
+    code: ["Javascript", "C#", "TypeScript", "Python"],
+    mission: "Transformar ideias complexas em soluções digitais escaláveis."
+};   
